@@ -6,6 +6,7 @@ public class MethodChaining {
 
         a1().a2().a3();
 
+
     }
 
     public static MethodChaining a1(){
