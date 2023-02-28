@@ -5,7 +5,7 @@ public class MethodChaining {
 
 
         a1().a2().a3();
-
+//This is method chaining
 
     }
 
